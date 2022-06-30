@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807344235460",
+    "project_id": "asseco-652f3",
+    "storage_bucket": "asseco-652f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807344235460:android:b8a9489762a0742abfba91",
+        "android_client_info": {
+          "package_name": "com.asseco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807344235460-eea8ibr5njtv303uvqlvdra8800jj4fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXPT6Diifl22Bz0TwSuIbX_sE4k9g-gJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807344235460-eea8ibr5njtv303uvqlvdra8800jj4fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
